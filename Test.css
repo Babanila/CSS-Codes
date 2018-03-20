@@ -1,0 +1,86 @@
+body {
+    background-color: white; 
+      margin: 20px;
+     }
+  
+     header {
+      background-color:rgb(18, 18, 99); 
+      border-color: yellow solid 5px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 50px;
+      padding: 4px;
+      color: white;
+           }
+  
+      footer {
+      font-family: sans-serif;
+      font-size: 20px;
+      color: black;
+                   }
+  
+           h1 {
+              font: serif;
+              font-size: 40px;
+               color: black;
+              }
+          
+                     h4 {
+                      font: serif;
+                      font-size: 30px;
+                       color: black;
+                        }
+  
+   article, section, div {
+      border: 5px rgb(18, 18, 102) solid;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      font: sans-serif;
+      font-size: 20px;
+      color: black;
+   }
+  
+   p {
+      font:sans-serif;
+      font-size: 20px;
+      color: black;
+      padding: 4px;  
+     }
+  
+     .bottom {
+      border: 2px solid;
+      padding: 40px;
+      padding-top: 2px;
+      padding-bottom: 0px;
+     }
+  
+     .top {
+      border: 2px;
+      padding-top: 2px;
+      padding-bottom: 0px;
+     }
+      
+     ul {
+      border: 2px solid;
+      padding: 40px;
+      padding-top: 2px;
+      padding-bottom: 10px;
+     }
+  
+     #btech{
+      font: serif;
+      color: blue;
+     }
+  
+     h2:hover {
+       color: white;
+       background-color:blue;
+       border: 5px solid red;  
+      
+        }
+  
+       p:hover {
+           font: Arial;
+           font-style: italic;
+          color: white;
+           background-color:rgb(18, 18, 99);
+          }

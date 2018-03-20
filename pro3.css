@@ -1,0 +1,158 @@
+body {
+    background-color: white;
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+    color: black;
+  font-family: "Book Antiqua", serif; 
+}
+
+.htop {
+    height: 120px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 5px black solid; 
+    }
+
+.htop h1 {
+    float: left;
+}
+
+#cname {
+    float: left;
+    color: blue;
+    padding-right: 10px;
+}
+
+.htop ul {
+    list-style-type: none;
+    float: right;
+    text-align: left;
+    margin-top: 70px;
+    width:20%;
+}
+
+h2{
+    color: purple;
+    border-bottom: 3px black solid; 
+    padding-left: 10px;
+}
+
+h3 {
+    color: darkblue;
+    font-style: italic;
+}
+
+/*article {
+    width: 70%;
+    height: 800px;
+    background-color: rgb(238, 232, 232);
+    float: left;
+} 
+
+
+#year {
+    text-align: left;
+}
+
+#company, #position {
+    text-align: center;
+    padding-left: 10px;
+}
+*/
+
+section {
+    width: 70%;
+    height: 840px;
+    background-color: rgb(238, 232, 232);
+    float: left;
+}
+
+.experience table {
+    line-height: 1.2;
+  }
+
+  table th {
+    border-right: 3px solid;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+    top: -25px;
+    left: 5px;
+  }
+
+  td {
+        padding-left: 30px;
+        position: relative;
+        top: -25px;
+        left: 5px;
+  }
+
+  #sit {
+      width: 90px;
+      text-align: justify;
+  }
+
+  #sit2 {
+    width: 120px;
+    text-align: justify;
+}
+
+  #sm li {
+        list-style-type: circle;
+  }
+
+  #sp, #sm li, #last li {
+      padding: 5px;
+      padding-left: 20px;
+      text-align: justify;
+  }
+
+/*ul li {
+    list-style-type: none;   
+}*/
+
+
+div {
+    width: 28%;
+    height: 250;
+    background-color: rgb(238, 232, 232);
+    text-align: justify;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 3px;
+}
+
+div li {
+    padding: 2px;
+    list-style-type: square;
+}
+
+#topRight, #medRight, #bottomRight {
+    float: right;
+}
+
+article {
+    width: 100%;
+    height: 270;
+    background-color: rgb(238, 232, 232);
+    margin-top: 10px; 
+    float: left;
+}
+
+footer {
+        width: 100%;
+        margin-top: 10px; 
+        margin-left: 30%;
+        float: left;
+}
+
+h4 {
+    color: darkblue;
+    font-style: italic;
+    margin-top: 2px;
+    margin-left: 35%;
+    float: left;
+}
+

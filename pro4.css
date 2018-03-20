@@ -1,0 +1,158 @@
+body {
+    background-color: white;
+    width: 75%;
+    height: auto;
+    margin-left: 12.5%;
+    color: black;
+  font-family: "Book Antiqua" , sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial; 
+}
+
+.htop {
+    height: 138px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border: 5px black solid; 
+    border-bottom: none;
+    border-radius: 10px;
+    background-color: powderblue;
+    position: relative;
+    bottom: 0px;
+    right: -5px;
+    }
+
+.htop h1 {
+    float: left;
+}
+
+#cname {
+    float: left;
+    color: blue;
+    padding-right: 5px;
+}
+
+.htop ul {
+    list-style-type: none;
+    float: right;
+    text-align: left;
+    margin-top: 70px;
+    width:21%;
+}
+
+h2{
+    color: rgb(42, 6, 173);
+    border-bottom: 3px black solid; 
+    padding-top: 0px;
+    padding-left: 10px;
+    border-radius: 10px;
+    width: 210px;
+}
+
+h3 {
+    color: darkblue;
+    font-style: italic;
+}
+
+.middle {
+    background-color: powderblue;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    border-bottom: none;
+    border-radius: 20px;
+}
+
+section {
+    width: 69%;
+    height: 840px;
+    float: left;
+}
+
+.experience table {
+    line-height: 1.0;
+  }
+
+  table th {
+    border-right: 3px solid;
+    border-radius: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+    top: -25px;
+    left: 5px;
+  }
+
+  td {
+        padding-left: 30px;
+        position: relative;
+        top: -25px;
+        left: 5px;
+  }
+
+  #sit {
+      width: 98px;
+      text-align: justify;
+  }
+
+  #sit2 {
+    width: 130px;
+    text-align: justify;
+}
+
+  #sm li {
+        list-style-type: circle;
+  }
+
+  #sp, #sm li, #last li {
+      padding: 5px;
+      padding-left: 20px;
+      text-align: justify;
+  }
+
+div {
+    width: 28.2%;
+    height: 250;
+    text-align: justify;
+    padding: 10px;
+    margin-bottom: 0px;
+    margin-left: 3px;
+    position: relative;
+    top: -5px;
+    left: 5px;
+    border-left: 3px solid;
+    border-radius: 20px;
+}
+
+div li {
+    padding: 2px;
+    list-style-type: square;
+}
+
+#topRight, #medRight, #bottomRight {
+    float: right;
+}
+
+article {
+    width: 100%;
+    height: 270;
+    margin-top: 0px; 
+    float: left;
+    border: 5px black solid;
+    border-radius: 10px;
+    background-color: powderblue;
+}
+
+footer {
+        width: 100%;
+        margin-top: 10px; 
+        margin-left: 30%;
+        float: left;
+}
+
+h4 {
+    color: darkblue;
+    font-style: italic;
+    margin-top: 2px;
+    margin-left: 35%;
+    float: left;
+}
+

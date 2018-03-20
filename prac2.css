@@ -1,0 +1,20 @@
+body {
+    /* every element inherits this except those with more specific style */
+    color: red; 
+    }
+
+ul {
+    /* li elements inherit this color */
+    color: blue;
+    }
+
+p {
+     /* this even the a tags inherit within the paragraphs */
+     font-style: italic;
+    }
+    
+
+ol {
+     /* applies to all li elements, in both ul and ol tags */
+    text-decoration: line-through;
+    }

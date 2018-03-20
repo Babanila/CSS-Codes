@@ -1,0 +1,31 @@
+html {
+    height: 100%;}
+
+body {
+    background-color: lightyellow;
+    background: url("/Users/becky/Documents/Web Learning/Images/hotel2.jpg") no-repeat center center fixed;
+   /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    background-size: cover;
+}
+
+#broswerDetail {
+	margin-left:20%;
+}
+
+#footer {
+		height: 10%;
+		width: 40%;
+		color:white;
+		padding-left: 10px;
+		padding-top: 5px;
+		font-size:1em;
+		margin-top: 17em;
+}
+
+#randomNumber {
+		margin-left: 50%;
+		color: white;
+		font-size: 2em;
+}

@@ -1,0 +1,92 @@
+/*
+body {
+	background: url("/Users/becky/Documents/Web Learning /Images/polar_bear.jpg") no-repeat center center fixed;
+	background-size: cover;
+	margin: 0;
+    padding: 0
+}
+
+
+#greet {
+		height: 80px;
+		width:400px;
+		margin-left: 560px;
+		margin-top: 50px;
+		font-style: bold;
+		font-size: 2em;
+		color: Black
+}
+
+
+h1 {
+	font-style: italic;
+	color: blue;
+	font-size: 3em;
+	text-align:	center;
+	margin: 300px 0 0 0;
+}
+
+#content2 {
+		height: 80px;
+		width:400px;
+		margin-left: 500px;
+		margin-top: 0px;
+		font-style: bold;
+}
+
+.message {
+	color: black;
+	font-size: 2em;
+	text-align:	center;
+	margin: 5px;
+	position: relative;
+
+}
+
+ #total {
+	color: red;
+	text-align:	center;
+}
+*/
+
+html {
+    height: 100%;}
+
+
+body {
+	background: url("/Users/becky/Documents/Web Learning/Images/polar_bear.jpg") no-repeat center center fixed;
+	background-size: cover;
+	margin: 0;
+    padding: 0
+}
+
+#mainparag {
+		background-color:white;
+		height: 370px;
+		width:600px;
+		margin-left: 25%;
+		margin-right: 25%;
+		margin-top: 300px;
+		font-style: bold;
+		border: 3px solid black;
+		
+}
+
+table, #greeting {
+		font-style: bold;
+		font-size: 2em;
+		color: Black;
+		border: 10px;
+		margin:10px;
+}
+
+#payButton {
+		background-color:red;
+		color:white;
+		margin-left:80%;
+		margin-top:0%;
+		height:40px;
+		width:60px;
+		font-size:1.5em;
+		
+}

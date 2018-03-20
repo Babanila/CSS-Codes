@@ -1,0 +1,45 @@
+body {
+    background-color: #ffff99;
+    margin: 25pt;
+   }
+    
+   h1 {
+       font: impact;
+        color: red;
+        border: solid;
+        border-color: red;
+       padding: 10pt;
+   }
+    
+   h2 {
+    font-family: Courier New;
+    color: yellow;
+    background-color: red;
+    padding: 4pt;
+    padding-top: 10pt; 
+   }
+    
+   ol {
+    background-color: #ffcc00;
+   }
+    
+   li {
+    padding: 4pt;
+   }
+    
+   p {
+    font: Helvetica;
+    border-width: 10px;
+    border: dotted;
+    border-color: #ffcc00;
+    padding: 4pt;  
+   }
+
+   button {
+    font-family: Impact, sans-serif;
+    font-weight: 100;
+    background-color: white;
+    border: 4px blue solid;
+    border-radius: 20px;
+    font-size: 0.8em;
+}
